@@ -1,6 +1,6 @@
 using System;
 
-class ArithmeticCalculator
+class Task4
 {
     // Method to perform addition
     static double Add(double a, double b)
